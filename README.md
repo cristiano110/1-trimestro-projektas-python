@@ -28,5 +28,5 @@ Dėl PDF funkcionalumo, šiai programai veikti būtinas 'reportlab' library. Jei
 
 **
 
-Tikiuosi jums patiko mano projektas!
+Tikiuosi, jums patiko mano projektas!
 Gero išbandymo 😁
